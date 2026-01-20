@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm Ibrahim
 
-<!--
-**ibrmx/ibrmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about learning, building, and experimenting with technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Interested in technology, development, and problem-solving
+- 📚 Continuously learning and improving my skills
+- 🌱 Curious about new tools, ideas, and systems
+- 🎯 Focused on growth, consistency, and quality
+
+---
+
+## 🛠️ Skills & Interests
+- Programming & Web Development  
+- Technology & Digital Tools  
+- Building practical projects  
+
+---
+
+## 📈 GitHub Goals
+- Share my learning journey  
+- Build clean and useful projects  
+- Collaborate and grow through practice  
+
+---
+
+## 📫 Contact Me
+- 💼 LinkedIn: [Ibrahim Jabri](https://www.linkedin.com/in/ibrahim-jabri)
+- 📸 Instagram: [@ibzk](https://www.instagram.com/ibzk)
+
+---
+
+⭐️ *Feel free to explore my repositories and follow my progress!
