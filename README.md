@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ibrahim Jabri
+# Hi there 👋 I'm Ibrahim 
 
 Welcome to my GitHub profile!  
 I'm passionate about learning, building, and experimenting with technology.
