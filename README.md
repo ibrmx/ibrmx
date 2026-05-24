@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Ibrahim 
 
-Welcome to my GitHub profile!  
-I'm passionate about learning, building, and experimenting with technology.
+“Building things that work, learning things that matter.”
 
 ---
 
 ## 🚀 About Me
-- 💻 Interested in technology, development, and problem-solving
-- 📚 Continuously learning and improving my skills
-- 🌱 Curious about new tools, ideas, and systems
-- 🎯 Focused on growth, consistency, and quality
+- 🎓 Computer Science student @ Middle East College, Muscat, Oman
+- 💻 Web Developer with a passion for clean, practical solutions
+- 🌱 Currently diving deeper into full-stack development and cloud systems
+- 🧠 Always experimenting with new tools and frameworks
+- 🇴🇲 Based in Muscat, Oman
 
 ---
 
@@ -33,4 +33,4 @@ I'm passionate about learning, building, and experimenting with technology.
 
 ---
 
-⭐️ *Feel free to explore my repositories and follow my progress!
+⭐️ Thanks for visiting! Feel free to explore my repos and drop a star if something interests you.
